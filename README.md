@@ -1,1 +1,1 @@
-# skinny
+# Scala - skinny-framework app
